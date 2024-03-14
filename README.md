@@ -15,6 +15,7 @@
 ## Snapshots , About And How To Use
 
 <div align="center">
-![Screenshot 2024-03-14 222713](https://github.com/Kavya879/YoutubeVideoDownloader/assets/139709980/916b5e1c-86ea-44c9-a614-f82917f15f34)
+![Screenshot 2024-03-14 222713](https://github.com/Kavya879/YoutubeVideoDownloader/assets/139709980/4e55bf14-346b-4a93-8fc8-d832c220a85e)
+
  
 </div>
