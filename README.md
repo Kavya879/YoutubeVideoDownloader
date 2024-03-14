@@ -12,8 +12,20 @@
  - [Moviepy](https://zulko.github.io/moviepy/)
 
  ---
-## Snapshots , About And How To Use
-
-<div align="center">
-![image](https://github.com/Kavya879/YoutubeVideoDownloader/assets/139709980/1883cd4b-c659-4a8b-88e4-65651c907713)
-</div>
+### Snapshots, About and How To Use
+* #### Step-I(Home Page)
+  ![1](images/S1.png)
+* ### Step-II(Choice Of File Type To Download)(Let us choose Audio+Video(With More Range Of Choices)
+  ![2](images/S2.png)
+* **Step-III(Interface Differs for other options and this i.e both have different sequence of how input is taken) - Taking input of location and filename(Without file format (.mp3,.mp4 etc.) is preferred)-ENTER FILENAME AND LOCATION , THEN CLICK ON PROCEED**
+  ![3](images/S3.png)
+* ### Step-IV (Choosing The Video File Format)
+  ![4](images/S4.png)
+* ### Step-V (Choosing the Audio File Format)
+  ![5](images/S5.png)
+* ### While Downloading , This Is what will appear on terminal (**Only For  Audio+Video(With More Range Of Choices)**)
+  ![6](images/S6.png)
+* ### This indicates the program has finished running 
+  ![7](images/S7.png)
+* ### Enjoy Your Youtube Video !!!
+  ![8](images/S8.png)
