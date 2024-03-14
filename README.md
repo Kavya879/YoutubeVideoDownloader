@@ -12,10 +12,12 @@
  - [Moviepy](https://zulko.github.io/moviepy/)
 
  ---
-### Snapshots, About and How To Use
+## Snapshots And How To Use
+- ### CASE-I(Audio+Video(With More Range Of Choices))**
+---
 * #### Step-I(Home Page)
   ![1](images/S1.png)
-* ### Step-II(Choice Of File Type To Download)(Let us choose Audio+Video(With More Range Of Choices)
+* ### Step-II(Choice Of File Type To Download)
   ![2](images/S2.png)
 * **Step-III(Interface Differs for other options and this i.e both have different sequence of how input is taken) - Taking input of location and filename(Without file format (.mp3,.mp4 etc.) is preferred)-ENTER FILENAME AND LOCATION , THEN CLICK ON PROCEED**
   ![3](images/S3.png)
@@ -29,3 +31,18 @@
   ![7](images/S7.png)
 * ### Enjoy Your Youtube Video !!!
   ![8](images/S8.png)
+---
+  - ### CASE-II(All Other Cases)**
+---
+* #### Step-I(Home Page)
+  ![1](images/S1.png)
+* ### Step-II(Choice Of File Type To Download)
+  ![2](images/S2.png)
+* ### Step-III (Choosing the Audio File Type)(Suppose)
+  ![5](images/S5.png)
+* ### Step-IV (Choosing the Audio File Format)
+   ![3](images/S3.png)
+* ### Step-V (This will be visible once your file downloads)
+   ![3](images/S3.png)
+* ### Enjoy Your File !!!
+   ![3](images/S10.png)
