@@ -137,7 +137,7 @@ def partgv(url_v,a1):
     n.pack()
     buttonn = ct.CTkButton(a3, text="Proceed", command=lambda:cvtag(url1,loca,n,a1,a3))
     buttonn.pack()
-    # a1.destroy()
+ 
     a3.mainloop()
 
 def cvtag(url1,loc,name,a1,a3):
@@ -152,8 +152,7 @@ def cvtag(url1,loc,name,a1,a3):
         button = ct.CTkButton(a2, text=k, command=lambda vtag=k.itag: catag(url1,vtag,loc,name,a1,a3,a2))
         button.pack()
     
-    # app.destroy()
-    # a1.destroy()
+
     a2.mainloop()
 
 def catag(url1,vtag,loc,name,a1,a3,a2):
@@ -168,8 +167,6 @@ def catag(url1,vtag,loc,name,a1,a3,a2):
         button = ct.CTkButton(a4, text=k, command=lambda atag=k.itag: downl(url1,vtag,atag,loc.get(),name.get(),a1,a2,a3,a4))
         button.pack()
 
-    # app.destroy()
-    # a1.destroy()
     a4.mainloop()
 
 
