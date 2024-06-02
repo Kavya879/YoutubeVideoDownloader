@@ -1,6 +1,6 @@
 # **Youtube Video Downloader**
 
-*This is a program written in Python with GUI , which is meant to download Youtube Videos in the FASTEST , Easiest And Most Convinient Way Possible*
+*This is a program written in Python with GUI , which is meant to download Youtube Videos in the FASTEST , Easiest And Most Convenient Way Possible*
 
 ---
 ## Details:
